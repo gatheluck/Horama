@@ -23,6 +23,9 @@
     </a>
 </div>
 
+> [!Important]
+> This repo is forked version of [the original Horama repo](https://github.com/serre-lab/Horama). 
+
 Horama is a compact library designed for Feature Visualization experiments, initially providing the implementation code for the research paper [Maco](https://arxiv.org/abs/2211.10154).
 
 This repository also introduces various feature visualization methods, including a reimagined approach to the [remarkable work by the Clarity team](https://distill.pub/2017/feature-visualization/) and an implementation of [Feature Accentuation](https://arxiv.org/abs/2402.10039) by Hamblin et al. For an official reproduction of Distill's work, complete with comprehensive notebooks, we highly recommend [Lucent](https://github.com/greentfrapp/lucent). However, Horama emphasizes **experimentation** and is not an official reproduction of any other paper aside from Maco within PyTorch.
